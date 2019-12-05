@@ -1,0 +1,7 @@
+devtools::install_github("ropensci/ghql")
+install.packages("httr")
+install.packages("jsonlite")
+install.packages("IRdisplay")
+install.packages("dplyr")
+install.packages("igraph")
+install.packages("RColorBrewer")
