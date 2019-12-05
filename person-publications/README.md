@@ -9,4 +9,4 @@ This Jupyter notebook uses the [DataCite GraphQL API](https://api.datacite.org/g
 
 ## License
 
-[MIT](https://github.com/datacite/notebooks/blob/master/LICENSE)
+[MIT](https://github.com/datacite/pidgraph-notebooks-r/blob/master/LICENSE)
