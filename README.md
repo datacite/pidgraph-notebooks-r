@@ -8,4 +8,5 @@ See also https://github.com/datacite/pidgraph-notebooks-python for Jupyter noteb
 
 Since the files `runtime.txt`, `apt.txt` and `install.R` exist, this repository can be launched on binder:
 
-https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-r/master?filepath=person-publications/r-person-publications.ipynb.ipynb
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-r/master?filepath=person-publications/r-person-publications.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-r/master?filepath=kpi/r-kpi.ipynb)
